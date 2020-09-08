@@ -1,0 +1,9 @@
+README.md
+setup.py
+Korean_name.egg-info/PKG-INFO
+Korean_name.egg-info/SOURCES.txt
+Korean_name.egg-info/dependency_links.txt
+Korean_name.egg-info/top_level.txt
+Package/Data.py
+Package/Main.py
+Package/__init__.py
